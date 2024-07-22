@@ -149,4 +149,3 @@ pipeline {
 
 ![image](https://github.com/Ahmed-Elkoumy/DevOps-Project-2/assets/163794226/370ec70c-8404-4d52-8194-9d472b9354ea)
 
-Thank you for reading ^-^
