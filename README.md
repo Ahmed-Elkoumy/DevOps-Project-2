@@ -9,10 +9,6 @@ Furthermore, the configuration of an Nginx server within the EKS cluster is impl
 
 ![image](https://github.com/Ahmed-Elkoumy/DevOps-Project-2/assets/163794226/30b839d0-7e77-4081-88fb-bf5d9e66b223)
 
-**Installing Terraform in Codespace
-https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli**
-
-
 Configure AWS CLI
 Create access keys
 
